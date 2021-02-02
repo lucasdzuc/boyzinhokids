@@ -38,16 +38,16 @@ Os clientes poderam se cadastrar na plataforma informando:
   - CEP
   
 Os usuários poderam:
-- Calcular o valor do frete do produto conforme a qualidade de produtos que tem interesse em adquirir
+- Calcular o valor do frete do produto conforme a qualidade de produtos selecionados.
 
 Os usuários logados na plataforma poderam:
 - Adicionar produtos ao carrinho de compras selecionando a cor e o tamanho do produto
-- Acesso ao checkout 
+- Acesso ao checkout
 - Painel de forma de pagamento
 - Painel do cliente
-  - acesso a lista de pedidos
-  - acesso aos seus dados cadastrados
-  - acesso ao endereço cadastrado
+  - acesso a lista de pedidos em andamento e pedidos concluídos (Podendo cancelar o pedido que estiver em andamento no prazo estipulado)
+  - acesso aos seus dados cadastrados (Podendo atualizar seus dados)
+  - acesso ao endereço cadastrado (Podendo editar/excluir endereço)
 
 ---
 
