@@ -14,7 +14,7 @@ publicos de mercado.
 
 ## Sobre o projeto
 
-A Loja online boyzinho kids é uma forma de conectar seus clientes com mais comunidade e praticidade, possibilitanto uma conexão de mercado com o mundo.
+A Loja online boyzinho kids é uma forma de conectar seus clientes com mais comunidade e praticidade, possibilitando uma conexão de mercado com o mundo.
 
 Os clientes poderam se cadastrar na plataforma informando:
 - Nome completo
@@ -30,6 +30,8 @@ Os clientes poderam se cadastrar na plataforma informando:
   - Cidade
   - Estato
   - CEP
+  
+  Os clientes poderam fazer compras:
   
 ## Layout
 
