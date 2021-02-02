@@ -47,7 +47,7 @@ Os usuários logados na plataforma poderam:
 - Painel do cliente
   - acesso a lista de pedidos em andamento e pedidos concluídos (Podendo cancelar o pedido que estiver em andamento no prazo estipulado)
   - acesso aos seus dados cadastrados (Podendo atualizar seus dados)
-  - acesso ao endereço cadastrado (Podendo editar/excluir endereço)
+  - acesso ao endereço cadastrado (Podendo editar/excluir o endereço)
 
 ---
 
