@@ -59,7 +59,7 @@ O Layout do projeto esta disponível no Figma:
 
 ## Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas estão sendo usadas na construção do projeto:
 
 #### **Website** (React)
 
