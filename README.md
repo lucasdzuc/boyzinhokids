@@ -8,7 +8,7 @@
 A boyzinho kids é uma marca referência em fabricar produtos com qualidade para o público infato juvenil, seu principal produto são as t-shirts. Localizada 
 em Santa Cruz do Capibaribe - Pernambuco.
 
-Com o objetivo te satisfazer os seus clientes com mais comunidade e praticidade, 
+Com o objetivo te satisfazer os seus clientes com mais comodidade e praticidade, 
 surgio a ideia de desenvolver uma plataforma que possibilita aos seus clientes realizarem compras e também realizarem pedidos para compras em atacado, atendendo assim seus principais 
 publicos de mercado.
 
