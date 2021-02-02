@@ -14,7 +14,13 @@ publicos de mercado.
 
 ## Sobre o projeto
 
-A Loja online boyzinho kids é uma forma de conectar seus clientes com mais comunidade e praticidade, possibilitando uma conexão de mercado com o mundo.
+A Loja online boyzinho kids é uma forma de conectar seus clientes com mais comodidade e praticidade, possibilitando uma conexão de mercado com o mundo.
+
+O projeto esta em Desenvolvimento.
+
+---
+
+## Funcionalidades
 
 Os clientes poderam se cadastrar na plataforma informando:
 - Nome completo
@@ -31,8 +37,20 @@ Os clientes poderam se cadastrar na plataforma informando:
   - Estato
   - CEP
   
-  Os clientes poderam fazer compras:
-  
+Os usuários poderam:
+- Calcular o valor do frete do produto conforme a qualidade de produtos que tem interesse em adquirir
+
+Os usuários logados na plataforma poderam:
+- Adicionar produtos ao carrinho de compras selecionando a cor e o tamanho do produto
+- Acesso ao checkout 
+- Painel de forma de pagamento
+- Painel do cliente
+  - acesso a lista de pedidos
+  - acesso aos seus dados cadastrados
+  - acesso ao endereço cadastrado
+
+---
+
 ## Layout
 
 O Layout do projeto esta disponível no Figma:
@@ -65,8 +83,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Multer](https://github.com/expressjs/multer)**
 -   **[Celebrate](https://github.com/arb/celebrate)**
 -   **[Bcrypt](https://www.npmjs.com/package/bcrypt)**
--   **[JWT](https://jwt.io/)**
+-   **[JWT + Refresh token](https://jwt.io/)**
 
+#### **Mobile** (React Native)
+
+-   **[React Native](https://reactnative.dev/)**
 
 ## Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).
