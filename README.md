@@ -89,6 +89,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[React Native](https://reactnative.dev/)**
 
+#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+
+-   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (boyzinho kids)](https://www.figma.com/file/IA4HciR6S9pmfgDjtEdus7/boyzinho-kids-Web?node-id=0%3A1)**
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+-   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
+-   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
+-   Teste de API:  **[Insomnia](https://insomnia.rest/)**
+-   Fontes: **[Arial Rounded MT Bold](https://docs.microsoft.com/pt-br/typography/font-list/arial-rounded-mt)**, **[Roboto](https://fonts.google.com/specimen/Roboto)**
+
+---
+
 ## Licença
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
